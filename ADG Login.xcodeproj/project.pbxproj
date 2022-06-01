@@ -17,6 +17,7 @@
 		0191F4882846712700B29F6C /* ADG_LoginUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0191F4872846712700B29F6C /* ADG_LoginUITests.swift */; };
 		0191F48A2846712700B29F6C /* ADG_LoginUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0191F4892846712700B29F6C /* ADG_LoginUITestsLaunchTests.swift */; };
 		0191F4972846765100B29F6C /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0191F4962846765100B29F6C /* SignUpViewController.swift */; };
+		01ED640B28476D82007F06E3 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01ED640A28476D82007F06E3 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0191F4872846712700B29F6C /* ADG_LoginUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADG_LoginUITests.swift; sourceTree = "<group>"; };
 		0191F4892846712700B29F6C /* ADG_LoginUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADG_LoginUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0191F4962846765100B29F6C /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		01ED640A28476D82007F06E3 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				0191F4682846712500B29F6C /* SceneDelegate.swift */,
 				0191F46A2846712500B29F6C /* ViewController.swift */,
 				0191F4962846765100B29F6C /* SignUpViewController.swift */,
+				01ED640A28476D82007F06E3 /* DetailsViewController.swift */,
 				0191F46C2846712500B29F6C /* Main.storyboard */,
 				0191F46F2846712600B29F6C /* Assets.xcassets */,
 				0191F4712846712600B29F6C /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				0191F4672846712500B29F6C /* AppDelegate.swift in Sources */,
 				0191F4972846765100B29F6C /* SignUpViewController.swift in Sources */,
 				0191F4692846712500B29F6C /* SceneDelegate.swift in Sources */,
+				01ED640B28476D82007F06E3 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
